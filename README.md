@@ -8,6 +8,6 @@ Some programming examples in Golang
 
 0. Hello World program
 
-	Solution (Golang): [hello_world.go](https://github.com/ramon-pessoa/golang_programming/blob/master/hello_world/hello.go)
+	Solution (Golang): [hello_world.go](https://github.com/ramon-pessoa/golang_programming/blob/master/src/hello_world/hello.go)
 
 Go back to [Contents](#contents).
