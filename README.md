@@ -2,12 +2,12 @@ Some programming examples in Golang
 ===========================
 
 ## Contents
-1. [Run, compile, or install golang code](#run,-compile,-or-install-golang-code)
+1. [Run, compile, or install golang code](#run-or-compile-or-install-golang-code)
 2. [Hello, World](#hello-world)
 3. [Variables](#variables)
 4. [Conditional](#conditional)
 
-## Run, compile, or install Golang code
+## Run or compile or install Golang code
 
 To install Golang in MacOS using homebrew (https://brew.sh/)
 ```sh
