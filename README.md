@@ -2,7 +2,7 @@ Some programming examples in Golang
 ===========================
 
 ## Contents
-1. [Run, compile, or install golang code](#run-or-compile-or-install-golang-code)
+1. [Run or compile or install golang code](#run-or-compile-or-install-golang-code)
 2. [Hello, World](#hello-world)
 3. [Variables](#variables)
 4. [Conditional](#conditional)
@@ -59,10 +59,10 @@ cd /Users/ramonpessoa/go/bin
 
 	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/variables/variables.go)
 
-Go back to [Contents](#contents).
-
 ## Conditional
 
 1. if, if else, else
 
 	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
+
+Go back to [Contents](#contents).
