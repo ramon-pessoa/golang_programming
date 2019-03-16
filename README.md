@@ -7,6 +7,7 @@ Some programming examples in Golang
 3. [Variables](#variables)
 4. [Conditional](#conditional)
 5. [Arrays](#arrays)
+6. [Loops](#loops)
 
 ## Run or compile or install Golang code
 
@@ -71,5 +72,11 @@ cd /Users/ramonpessoa/go/bin
 1. Arrays
 
 	Solution (Golang): [arrays.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/arrays/arrays.go)
+
+## Loops
+
+1. Loops
+
+	Solution (Golang): [loops.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/loops/loops.go)
 
 Go back to [Contents](#contents).
