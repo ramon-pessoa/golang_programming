@@ -1,4 +1,4 @@
-Some programming examples in Golang (https://golang.org/)
+Some programming examples in Golang
 ===========================
 
 ## Contents
