@@ -10,6 +10,7 @@ Some programming examples in Golang (https://golang.org/)
 6. [Loops](#loops)
 7. [Functions](#functions)
 8. [Structs](#structs)
+9. [Pointers](#pointers)
 
 ## Run or compile or install Golang code
 
@@ -92,5 +93,11 @@ cd /Users/ramonpessoa/go/bin
 1. Functions
 
 	Solution (Golang): [structs.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/structs/structs.go)
+
+## Pointers
+
+1. Pointers
+
+	Solution (Golang): [pointers.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/pointers/pointers.go)
 
 Go back to [Contents](#contents).
