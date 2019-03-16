@@ -6,6 +6,7 @@ Some programming examples in Golang
 2. [Hello, World](#hello-world)
 3. [Variables](#variables)
 4. [Conditional](#conditional)
+5. [Arrays](#arrays)
 
 ## Run or compile or install Golang code
 
@@ -64,5 +65,11 @@ cd /Users/ramonpessoa/go/bin
 1. if, if else, else
 
 	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
+
+## Arrays
+
+1. Arrays
+
+	Solution (Golang): [arrays.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/arrays/arrays.go)
 
 Go back to [Contents](#contents).
