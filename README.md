@@ -2,8 +2,8 @@ Some programming examples in Golang
 ===========================
 
 ## Contents
-1. [Run, compile, or install golang code](#run,_compile,_or_install_golang_code)
-2. [Hello, World](#hello_world)
+1. [Run, compile, or install golang code](#run,-compile,-or-install-golang-code)
+2. [Hello, World](#hello-world)
 3. [Variables](#variables)
 4. [Conditional](#conditional)
 
