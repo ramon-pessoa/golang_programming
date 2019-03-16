@@ -65,4 +65,4 @@ Go back to [Contents](#contents).
 
 1. if, if else, else
 
-	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditonal/if_ifelse_else.go)
+	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
