@@ -45,11 +45,13 @@ cd /Users/ramonpessoa/go/bin
 
 ## Hello World
 
-0. Hello World program
+1. Hello World program
 
 	Solution (Golang): [hello_world.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/hello_world/hello.go)
 
-0. Variables
+## Variables
+
+1. Variables
 
 	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/variables/variables.go)
 
