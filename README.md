@@ -65,7 +65,7 @@ cd /Users/ramonpessoa/go/bin
 
 1. if, if else, else
 
-	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
+	Solution (Golang): [if_ifelse_else.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
 
 ## Arrays
 
