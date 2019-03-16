@@ -1,4 +1,4 @@
-Some programming examples in Golang
+Some programming examples in Golang (https://golang.org/)
 ===========================
 
 ## Contents
@@ -9,6 +9,7 @@ Some programming examples in Golang
 5. [Arrays](#arrays)
 6. [Loops](#loops)
 7. [Functions](#functions)
+8. [Structs](#structs)
 
 ## Run or compile or install Golang code
 
@@ -85,5 +86,11 @@ cd /Users/ramonpessoa/go/bin
 1. Functions
 
 	Solution (Golang): [functions.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/functions/functions.go)
+
+## Structs
+
+1. Functions
+
+	Solution (Golang): [structs.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/structs/structs.go)
 
 Go back to [Contents](#contents).
