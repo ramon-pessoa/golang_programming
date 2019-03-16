@@ -1,6 +1,14 @@
 Some programming examples in Golang
 ===========================
 
+## Contents
+1. [Run, compile, or install golang code](#run,_compile,_or_install_golang_code)
+2. [Hello, World](#hello_world)
+3. [Variables](#variables)
+4. [Conditional](#conditional)
+
+## Run, compile, or install Golang code
+
 To install Golang in MacOS using homebrew (https://brew.sh/)
 ```sh
 brew install go
@@ -39,10 +47,6 @@ cd /Users/ramonpessoa/go/bin
 ./variables
 ```
 
-## Contents
-0. [Hello, World](#hello_world)
-1. [Variables](#variables)
-
 ## Hello World
 
 1. Hello World program
@@ -56,3 +60,9 @@ cd /Users/ramonpessoa/go/bin
 	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/variables/variables.go)
 
 Go back to [Contents](#contents).
+
+## Conditional
+
+1. if, if else, else
+
+	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditonal/if_ifelse_else.go)
