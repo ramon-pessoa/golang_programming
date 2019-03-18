@@ -107,6 +107,6 @@ cd /Users/ramonpessoa/go/bin
 	* For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17. 
 	* Bonus: Can you do this in one pass?
 
-	a. Solution (Golang) [verify_if_two_numbers_in_a_list_add_up_to_k.go](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/verify_if_two_numbers_in_a_list_add_up_to_k.go)
+	a. Solution (Golang) [verify_if_two_numbers_in_a_list_add_up_to_k.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/solutions_for_coding_problems/verify_if_two_numbers_in_a_list_add_up_to_k.go)
 
 Go back to [Contents](#contents).
