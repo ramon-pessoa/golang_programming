@@ -11,6 +11,7 @@ Some programming examples in Golang
 7. [Functions](#functions)
 8. [Structs](#structs)
 9. [Pointers](#pointers)
+10. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Run or compile or install Golang code
 
@@ -99,5 +100,13 @@ cd /Users/ramonpessoa/go/bin
 1. Pointers
 
 	Solution (Golang): [pointers.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/pointers/pointers.go)
+
+## Solutions for coding problems
+
+1. Problem #1 [Easy]: Given a list of numbers and a number k, return whether any two numbers from the list add up to k. 
+	* For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17. 
+	* Bonus: Can you do this in one pass?
+
+	a. Solution (Golang) [verify_if_two_numbers_in_a_list_add_up_to_k.go](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/verify_if_two_numbers_in_a_list_add_up_to_k.go)
 
 Go back to [Contents](#contents).
