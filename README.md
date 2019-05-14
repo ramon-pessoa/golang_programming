@@ -57,49 +57,49 @@ cd /Users/ramonpessoa/go/bin
 
 1. Hello World program
 
-	Solution (Golang): [hello_world.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/hello_world/hello.go)
+	Solution (Golang): [hello_world.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/hello_world/hello.go)
 
 ## Variables
 
 1. Variables
 
-	Solution (Golang): [variables.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/variables/variables.go)
+	Solution (Golang): [variables.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/variables/variables.go)
 
 ## Conditional
 
 1. if, if else, else
 
-	Solution (Golang): [if_ifelse_else.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
+	Solution (Golang): [if_ifelse_else.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/conditional/if_ifelse_else.go)
 
 ## Arrays
 
 1. Arrays
 
-	Solution (Golang): [arrays.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/arrays/arrays.go)
+	Solution (Golang): [arrays.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/arrays/arrays.go)
 
 ## Loops
 
 1. Loops
 
-	Solution (Golang): [loops.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/loops/loops.go)
+	Solution (Golang): [loops.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/loops/loops.go)
 
 ## Functions
 
 1. Functions
 
-	Solution (Golang): [functions.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/functions/functions.go)
+	Solution (Golang): [functions.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/functions/functions.go)
 
 ## Structs
 
 1. Functions
 
-	Solution (Golang): [structs.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/structs/structs.go)
+	Solution (Golang): [structs.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/structs/structs.go)
 
 ## Pointers
 
 1. Pointers
 
-	Solution (Golang): [pointers.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/pointers/pointers.go)
+	Solution (Golang): [pointers.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/pointers/pointers.go)
 
 ## Solutions for coding problems
 
@@ -107,6 +107,6 @@ cd /Users/ramonpessoa/go/bin
 	* For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17. 
 	* Bonus: Can you do this in one pass?
 
-	a. Solution (Golang) [verify_if_two_numbers_in_a_list_add_up_to_k.go](https://github.com/ramon-pessoa/golang_programming/blob/master/go/src/solutions_for_coding_problems/verify_if_two_numbers_in_a_list_add_up_to_k.go)
+	a. Solution (Golang) [verify_if_two_numbers_in_a_list_add_up_to_k.go](https://github.com/ramonfigueiredopessoa/golang_programming/blob/master/go/src/solutions_for_coding_problems/verify_if_two_numbers_in_a_list_add_up_to_k.go)
 
 Go back to [Contents](#contents).
